@@ -1,5 +1,6 @@
 # Coursera_Capstone
 Respository for sharing Coursera projects
+
 Week 1:
 Complete the following:
 1. Create a Jupyter Notebook using any platform that you are comfortable with and do the following:
